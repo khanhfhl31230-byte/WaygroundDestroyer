@@ -1,6 +1,6 @@
 javascript:(function(){
     // CONFIGURAÇÃO GEMINI - COLE SUA CHAVE AQUI!
-    const API_KEY = 'YOUR API KEY'; // ← Obtenha em: https://aistudio.google.com/
+    const API_KEY = 'AIzaSyC_-hhP--Z9ttDrC7LNIRvoUT74qLyn5BI'; // ← Obtenha em: https://aistudio.google.com/
     const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${API_KEY}`;
     
     // Verificar chave
